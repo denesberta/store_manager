@@ -1,0 +1,19 @@
+{
+  "name": "denesberta/store_manager",
+  "description": "store_manager library",
+  "license": "LGPL-3.0+",
+  "authors": [
+    {
+      "name": "Berta Denes",
+      "email": "berta.dnes@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
